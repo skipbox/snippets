@@ -49,7 +49,14 @@ webview-
 -setup
 -url
 -onfinish
-
+set-colors-programically
+xml-center text
+show/hide - layout
+play sound
+text to speech
+vibrate
+flash light
+read and speak text from webpage by id
 
  */
 
